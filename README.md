@@ -6,7 +6,7 @@ Power BI healthcare executive dashboard for hospital KPI monitoring, healthcare 
 
 ## Dashboard Preview
 
-![Healthcare Dashboard](screenshots/dashboard.png)
+![Healthcare Dashboard](screenshots/dashboard_screenshots.png)
 
 ---
 
@@ -84,7 +84,7 @@ healthcare-executive-dashboard-powerbi/
 │   └── patients.csv
 │
 ├── screenshots/
-│   └── dashboard.png
+│   └── dashboard_screenshots.png
 │
 └── dashboard/
     └── healthcare_dashboard.pbix
